@@ -1,0 +1,9 @@
+{
+  "name": "com.ixamb.dialogtree",
+  "version": "1.0.0",
+  "displayName": "DialogTree",
+  "description": "Dialog Tree Editor tool",
+  "unity": "2021.3",
+  "dependencies": {
+  }
+}

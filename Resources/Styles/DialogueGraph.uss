@@ -1,0 +1,19 @@
+Node {
+    min-width: 220px;
+}
+
+Node #title {
+    padding: 4px 6px;
+}
+
+TextField {
+    margin: 2px 4px;
+}
+
+EnumField {
+    margin: 2px 4px;
+}
+
+#responses-container Button {
+    width: 20px;
+}
